@@ -13,6 +13,8 @@ Most of my code lives in private repos that run those businesses. Here's what it
 
 **What I build:** booking and CRM systems, chat assistants, workflow automation, WordPress and WooCommerce platforms, public-data APIs, and the scrapers and pipelines behind them.
 
+**Open source:** [normal-month](https://github.com/BrandShyp/normal-month) (was this month actually unusual?) · [wp-fleet](https://github.com/BrandShyp/wp-fleet) (safe updates across many WordPress sites)
+
 **Stack:** Python · PHP / WordPress · JavaScript / TypeScript · Node + Playwright · Linux and shell · SQL
 
 **Compliance:** BrandShyp is registered on SAM.gov (UEI L58JZMKRCLM5 · CAGE 203C1) and has affirmed CMMC Level 1, plus CMMC Level 2 (Self-Assessment) in SPRS.
