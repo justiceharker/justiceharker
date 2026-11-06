@@ -7,7 +7,7 @@ Most of my code lives in private repos that run those businesses. Here's what it
 | Project | What it does |
 |---|---|
 | [Vessel Attribution](https://brandshyp.org/vessel-attribution/) | Ties about 1,500 ships on the U.S. Treasury sanctions list to the companies that own them. When the public record doesn't settle ownership, it says "ambiguous" and shows its evidence instead of guessing. |
-| [San Antonio Crime Map](https://brandshyp.org/san-antonio-crime-map/) | One of 20 free public-data tools for San Antonio residents, 14 of them also in Spanish. It won't call a normal month a crime wave. |
+| [San Antonio Crime Map](https://brandshyp.org/san-antonio-crime-map/) | One of 20 free public-data tools for San Antonio residents, 14 of them also in Spanish. It won't call a normal month a crime wave. The test behind that is open source: [normal-month](https://github.com/justiceharker/normal-month). |
 | [SriLankaExport.com](https://srilankaexport.com) | A B2B export marketplace with its own trade desk: Ceylon cinnamon, tea, spices and coconut products. 18 languages, set up for Google Shopping in 102 countries. |
 | [Vedda Language Archive](https://github.com/justiceharker/vedda-language-archive) | Every Vedda word four collectors wrote down between 1863 and 1972, rebuilt from the original scans with per-row provenance. |
 
